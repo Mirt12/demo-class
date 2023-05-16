@@ -1,5 +1,5 @@
 public class Description {
 
-    String description;
+    String a;
     int price;
 }

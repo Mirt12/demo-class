@@ -4,5 +4,5 @@ public class Flat {
     Hall hall;
     Bathroom bathroom;
     BedRoom bedroom;
-
+    LivingRoom livingRoom;
 }
