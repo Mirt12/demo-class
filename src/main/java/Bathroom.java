@@ -1,5 +1,4 @@
-public class Bathroom {
+public class Bathroom extends Room {
 
-    int square;
-    String typeOfdoush;
+    String typeOfdouche;
 }

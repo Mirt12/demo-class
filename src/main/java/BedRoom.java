@@ -1,6 +1,5 @@
-public class BedRoom {
+public class BedRoom extends Room {
 
-    int square;
     int bedsNumber;
     String type;
 }

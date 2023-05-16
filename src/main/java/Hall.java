@@ -1,5 +1,4 @@
-public class Hall {
+public class Hall extends Room {
 
-    int square;
-    boolean isTV;
+    String type;
 }
