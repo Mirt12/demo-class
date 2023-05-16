@@ -9,5 +9,6 @@ public class Main {
         description1.price = 57;
         description1.description ="Water-washing, power, huawei";
 
+        card1.description = description1;
     }
 }
