@@ -10,14 +10,11 @@ public class Main {
         variable1.a = "Water-washing, power, huawei";
 //composition:
         product1.description = variable1;
-
-
         Flat flat1 = new Flat();
         LivingRoom livingRoom1 = new LivingRoom();
         livingRoom1.numberOfBeds = 2;
         livingRoom1.square = 25;
         flat1.livingRoom = livingRoom1;
-
 
 //inheritance:
         Kitchen kitchen = new Kitchen();
